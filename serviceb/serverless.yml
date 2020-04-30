@@ -57,7 +57,7 @@ provider:
 #    - exclude-me.js
 #    - exclude-me-dir/**
 
-//exporta
+#export
 functions:
   hello:
     handler: handler.hello
